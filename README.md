@@ -1,3 +1,6 @@
+![Screenshot 2024-08-28 101032](https://github.com/user-attachments/assets/3ecbefac-d694-4012-82b0-c97ea54f1713)
+
+
 # Babruvahana
 Babruvahana is a powerful tool designed for security researchers, web developers, and analysts to find sensitive information embedded in JavaScript files and extract valuable data from HTML content of web pages. 
 It is particularly useful for uncovering API keys, tokens, and other confidential information that might be inadvertently exposed.
